@@ -1,0 +1,54 @@
+[
+  {
+    "category": "Network & VPN",
+    "subcategories": [
+      "Cisco AnyConnect",
+      "GlobalProtect",
+      "DNS resolution",
+      "Split Tunnel",
+      "Office WiFi"
+    ],
+    "default_resolver_group": "IT-Network-Operations"
+  },
+  {
+    "category": "Email & Collaboration",
+    "subcategories": [
+      "Outlook Web & Desktop",
+      "Microsoft Teams",
+      "Shared Mailbox",
+      "MFA Login Prompts"
+    ],
+    "default_resolver_group": "IT-Enterprise-Applications"
+  },
+  {
+    "category": "Security & Access",
+    "subcategories": [
+      "Physical Badge Access",
+      "Okta SSO",
+      "VPN Token",
+      "Active Directory Lockout"
+    ],
+    "default_resolver_group": "IT-Identity-Access-Management"
+  },
+  {
+    "category": "Hardware & Peripherals",
+    "subcategories": [
+      "Laptop Battery",
+      "Screen & Display",
+      "Docking Station",
+      "Charger",
+      "Keyboard/Mouse"
+    ],
+    "default_resolver_group": "IT-Hardware-EndUser-Support"
+  },
+  {
+    "category": "Software & Applications",
+    "subcategories": [
+      "M365 Licensing",
+      "Developer Tools",
+      "Intune Portal",
+      "Antivirus/CrowdStrike"
+    ],
+    "default_resolver_group": "IT-Enterprise-Applications"
+  }
+]

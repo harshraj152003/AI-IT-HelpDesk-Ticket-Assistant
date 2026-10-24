@@ -1,0 +1,6 @@
+asset_id,device_name,user,location,os,status
+AST-101,MacBook Pro M2,alice,New York,macOS 14.5,Active
+AST-102,Dell Latitude 5420,bob,London,Windows 11 Enterprise,Active
+AST-103,ThinkPad X1 Carbon,charlie,Tokyo,Windows 11 Pro,Active
+AST-104,MacBook Air M3,diana,San Francisco,macOS 15.0,Active
+AST-105,HP EliteBook 840,evan,Chicago,Windows 11 Enterprise,Active

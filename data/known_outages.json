@@ -1,0 +1,22 @@
+[
+  {
+    "outage_id": "OUT-402",
+    "service": "Global Corporate VPN",
+    "title": "US-East VPN Gateway Intermittent Packet Drop",
+    "description": "Users in New York and US-East region connecting via Cisco AnyConnect are experiencing gateway timeouts and disconnects.",
+    "affected_locations": ["New York", "Boston", "US-East"],
+    "status": "Investigating",
+    "started_at": "2026-10-20T14:00:00Z",
+    "eta": "2 hours"
+  },
+  {
+    "outage_id": "OUT-405",
+    "service": "Badge & Building Access",
+    "title": "London Office Turnstile Scanner Firmware Glitch",
+    "description": "NFC and RFID badge access is intermittently rejecting valid keycards at the London main tower.",
+    "affected_locations": ["London"],
+    "status": "In Progress",
+    "started_at": "2026-10-20T13:30:00Z",
+    "eta": "1 hour"
+  }
+]

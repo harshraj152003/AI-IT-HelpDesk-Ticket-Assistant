@@ -1,0 +1,35 @@
+[
+  {
+    "ticket_id": "INC-8810",
+    "user": "alice",
+    "summary": "Outlook keeps prompting for password repeatedly on MacBook",
+    "category": "Email & Collaboration",
+    "device": "MacBook Pro M2",
+    "location": "New York",
+    "resolution": "Cleared Keychain entries for Microsoft Office Identity Cache and re-authenticated with MFA.",
+    "status": "Resolved",
+    "created_at": "2026-10-18T10:15:00Z"
+  },
+  {
+    "ticket_id": "INC-8824",
+    "user": "bob",
+    "summary": "Cannot access internal gitlab server via VPN",
+    "category": "Network & VPN",
+    "device": "Dell Latitude 5420",
+    "location": "London",
+    "resolution": "Split-tunnel DNS configuration updated by IT-Infrastructure team.",
+    "status": "Resolved",
+    "created_at": "2026-10-19T09:20:00Z"
+  },
+  {
+    "ticket_id": "INC-8835",
+    "user": "charlie",
+    "summary": "ThinkPad battery drains completely in 45 minutes",
+    "category": "Hardware & Peripherals",
+    "device": "ThinkPad X1 Carbon",
+    "location": "Tokyo",
+    "resolution": "Battery diagnostics run, hardware replacement ticket dispatched to vendor.",
+    "status": "Open",
+    "created_at": "2026-10-20T08:00:00Z"
+  }
+]

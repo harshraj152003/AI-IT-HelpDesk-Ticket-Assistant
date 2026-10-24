@@ -1,0 +1,9 @@
+impact,urgency,priority,base_sla_hours,description
+High,High,P1 - Critical,2,Critical disruption affecting whole business or VIP mission-critical delivery
+High,Medium,P2 - High,4,Significant disruption to core workflows with no immediate workaround
+Medium,High,P2 - High,4,Single user blocked with urgent hard deadline
+Medium,Medium,P3 - Moderate,8,Standard operational issue affecting individual with partial workaround
+Medium,Low,P3 - Moderate,16,Non-blocking operational inquiry or minor inconvenience
+Low,High,P3 - Moderate,8,Minor operational issue with near-term deadline
+Low,Medium,P4 - Low,24,Minor system cosmetic or non-blocking standard request
+Low,Low,P4 - Low,48,General informational request or low priority cosmetic query

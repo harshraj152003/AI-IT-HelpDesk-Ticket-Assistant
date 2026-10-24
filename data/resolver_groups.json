@@ -1,0 +1,58 @@
+[
+  {
+    "group_id": "RES-NET-01",
+    "group_name": "IT-Network-Operations",
+    "categories": ["Network & VPN", "WiFi", "Firewall", "DNS"],
+    "description": "Handles corporate network infrastructure, VPN gateways, DNS/DHCP issues, and office wireless connectivity.",
+    "lead_time_sla_hours": 4
+  },
+  {
+    "group_id": "RES-APP-02",
+    "group_name": "IT-Enterprise-Applications",
+    "categories": [
+      "Email & Collaboration",
+      "Outlook",
+      "Teams",
+      "M365",
+      "ERP",
+      "Salesforce"
+    ],
+    "description": "Supports core enterprise applications, email authentication, calendar syncing, and software license provisioning.",
+    "lead_time_sla_hours": 8
+  },
+  {
+    "group_id": "RES-SEC-03",
+    "group_name": "IT-Identity-Access-Management",
+    "categories": [
+      "Security & Access",
+      "Badge Access",
+      "SSO",
+      "Password Reset",
+      "MFA",
+      "Permissions"
+    ],
+    "description": "Responsible for Okta/Azure SSO, MFA resets, physical RFID badge permissions, and privileged account access.",
+    "lead_time_sla_hours": 2
+  },
+  {
+    "group_id": "RES-HW-04",
+    "group_name": "IT-Hardware-EndUser-Support",
+    "categories": [
+      "Hardware & Peripherals",
+      "Laptop",
+      "Monitors",
+      "Docking Station",
+      "Battery",
+      "Keyboard"
+    ],
+    "description": "Provides physical workstation troubleshooting, hardware repair, laptop swaps, and peripheral replacements.",
+    "lead_time_sla_hours": 12
+  },
+  {
+    "group_id": "RES-GEN-05",
+    "group_name": "IT-Service-Desk",
+    "categories": ["General Support", "Other", "Onboarding", "Inquiries"],
+    "description": "Front-line triage for general inquiries, training, and unclassified IT assistance.",
+    "lead_time_sla_hours": 24
+  }
+]
